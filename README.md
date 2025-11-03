@@ -12,7 +12,7 @@ A sleek and engaging app design for discovering, streaming, and organizing music
 
 2. 🌍 TravelEase – Traveler App
 A travel planning and booking interface helping users explore destinations, create itineraries, and manage trips with ease.
-🔗 https://www.figma.com/design/JgrBFKe2jaGgHfEGq9aMim?node-id=0-1
+🔗 https://www.figma.com/design/ZdeBR8e5bkphb0ysZbkeMU?node-id=1-4007
 
 
 3. 🏥 MediCare – Health Care App
